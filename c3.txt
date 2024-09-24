@@ -1,1 +1,5 @@
+3<<<<<<< HEAD
 c3 is modified
+=======
+c3 is added
+>>>>>>> first

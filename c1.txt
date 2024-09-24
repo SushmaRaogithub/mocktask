@@ -1,1 +1,5 @@
+2<<<<<<< HEAD
 c1 is modofied
+=======
+c1 is added 
+>>>>>>> first

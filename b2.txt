@@ -1,1 +1,5 @@
+1<<<<<<< HEAD
 b2 is modified
+=======
+b2 is added
+>>>>>>> first
